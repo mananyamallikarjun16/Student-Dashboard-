@@ -2,6 +2,10 @@
 
 A responsive full-stack student planner built with Flask, Jinja and SQLite. The study desk opens with a private sample workspace containing three courses, assignments and a recurring timetable. Students can add assignments, track completion and register to save their workspace across devices. Course enrollment and class times are seeded sample data.
 
+## Dashboard preview
+
+![Folio Campus overview showing three courses, upcoming assignments and today’s classes](docs/dashboard-preview.png)
+
 ## Run locally
 
 Use Python 3.12 and run these commands from the repository root.
